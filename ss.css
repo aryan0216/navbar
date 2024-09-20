@@ -1,0 +1,45 @@
+
+body
+{
+  height: 25;
+}
+h1
+{
+  background-color:aqua;
+  text-align:center;
+  line height: 0px;
+  margin: 0PX;
+  
+}
+div
+{
+  background-color: black;
+}
+#ab
+{
+  font-size: 25 px;
+  color:#f08804;
+  margin: 50PX;
+  
+}
+#c{
+  color:#FFFFFF;
+  margin: 20PX;
+}
+#d{
+  color:#FFFFFF;
+  margin: 50PX;
+}
+#gq
+{
+color:white;
+text-decoration:none;
+margin: 50PX;
+}
+#dq
+{
+  background-color:#f08804;
+  color:white;
+  margin: 50PX;
+  
+}
